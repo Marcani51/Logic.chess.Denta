@@ -2,6 +2,7 @@
 # Chess CLI (TypeScript)
 
 Console-based chess game
+Created by: Marcellus Denta
 
 ## Features
 
